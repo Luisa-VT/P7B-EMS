@@ -10,9 +10,3 @@
 
 - Lightbox  -  https://lokeshdhakar.com/projects/lightbox2/
 
-
----------------------
- FONTS
----------------------
-
-- Google Fonts  -  Montserrat + Cardo
